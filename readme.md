@@ -1,4 +1,4 @@
-<h1 align="center">CodeMoji - Codelândia | Desafio 08</h1><br>
+<h1 align="center">Formulário - Cálculo de IMC</h1><br>
 
 ![image](/preview/preview.png)<br><br>
 
