@@ -39,7 +39,6 @@ body {
     -moz-box-orient: vertical;/*alinhar para direita*/
     display: inline-block;/*alinhar para direita*/
     vertical-align: middle;
-    *vertical-align: auto;
     margin: 0 auto; }
 
     
@@ -59,7 +58,6 @@ body {
     -moz-box-orient: vertical;/*alinhar para direita*/
     display: inline-block;/*alinhar para direita*/
     vertical-align: middle;
-    *vertical-align: auto;
     margin: 20px;
 }
 
@@ -73,7 +71,6 @@ body {
     -moz-box-orient: vertical;/*alinhar para direita*/
     display: inline-block;/*alinhar para direita*/
     vertical-align: middle;
-    *vertical-align: auto; 
     margin: 20px;
 } 
 
@@ -90,7 +87,6 @@ body {
     -moz-box-orient: vertical;/*alinhar para direita*/
     display: inline-block;/*alinhar para direita*/
     vertical-align: middle;
-    *vertical-align: auto;
     margin-bottom: 15px; 
 }
 
